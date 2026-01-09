@@ -12,13 +12,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Lavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=LavishPalia&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LavishPalia&theme=radical&hide_border=true)
 
 ---
 
