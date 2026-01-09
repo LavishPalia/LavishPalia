@@ -12,9 +12,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-lavishpalia.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-lavishpalia.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LavishPalia&theme=radical&hide_border=true)
 
