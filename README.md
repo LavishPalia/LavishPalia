@@ -26,7 +26,7 @@
 **Full Stack | Next.js • Node.js • MongoDB • AWS**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/LavishPalia/videocave)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-green?style=flat)](https://videocave-vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-green?style=flat)](https://videocave.vercel.app)
 
 > A full-featured video streaming platform with real-time features, content management, and user engagement systems.
 
