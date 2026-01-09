@@ -1,11 +1,11 @@
 # Lavish Palla
 ## Full Stack Developer | React.js • Node.js • TypeScript Specialist
 
-📍 Jaipur, India | 📧 lavishgarg1199@gmail.com | 📱 +91 6286143475
+📍 Jaipur, India | 📧 lavishgarg1199@gmail.com | 📱 +91 6206143475
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-palla/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-palia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LavishPalia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://next-dev-portfolio-zeta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavishgarg1199@gmail.com)
 
 ---
@@ -28,7 +28,7 @@
 **Full Stack | Next.js • Node.js • MongoDB • AWS**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/LavishPalia/videocave)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-green?style=flat)](https://videocave-demo.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-green?style=flat)](https://videocave-vercel.app)
 
 > A full-featured video streaming platform with real-time features, content management, and user engagement systems.
 
@@ -183,9 +183,9 @@ I'm currently open to new opportunities as a **Full Stack Developer** or **Softw
 
 **Contact Information:**
 - **Email:** [lavishgarg1199@gmail.com](mailto:lavishgarg1199@gmail.com)
-- **LinkedIn:** [linkedin.com/in/lavish-palla/](https://linkedin.com/in/lavish-palla/)
-- **Phone:** +91 6286143475
-- **Location:** Jaipur, India (Open to relocation)
+- **LinkedIn:** [linkedin.com/in/lavish-palla/](https://linkedin.com/in/lavish-palia/)
+- **Phone:** +91 6206143475
+- **Location:** Surajgarh, Rajasthan, India (Open to relocation)
 
 ---
 
