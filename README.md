@@ -12,9 +12,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=LavishPalia&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavishPalia&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LavishPalia&theme=radical&hide_border=true)
 
